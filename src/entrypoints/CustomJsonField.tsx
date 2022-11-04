@@ -28,7 +28,7 @@ const CustomJsonFieldEditor = ({ ctx }: PropTypes) => {
           <li>verify the custom field UI is there</li>
           <li>navigate away (click settings)</li>
           <li>navigate back (click content)</li>
-          <li>check the UI of the field, it is not missing</li>
+          <li>check the UI of the field, it is now missing</li>
         </ol>
         <p>
           If the field is displayed, refresh the page. for my sandbox I can

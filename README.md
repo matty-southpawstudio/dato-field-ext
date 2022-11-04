@@ -29,7 +29,7 @@ or
 - verify the custom field UI is there
 - navigate away (click settings)
 - navigate back (click content)
-- check the UI of the field, it is not missing
+- check the UI of the field, it is now missing
 
 If the field is displayed refresh the page. for my sandbox I can refresh "https://sandbox-9778.admin.datocms.com/editor/item_types/877647/items/new" and the field extension will disappear
 
